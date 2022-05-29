@@ -5,6 +5,7 @@
 #include <QMessageBox>
 #include <QTimer>
 #include <QDir>
+#include <QFileInfo>
 
 
 QT_BEGIN_NAMESPACE
@@ -21,8 +22,6 @@ public:
 
 private slots:
     void on_radioButton_clicked(bool checked);
-
-    void on_pushButton_copyData_clicked();
 
     void on_pushButton_stopChech_clicked();
 

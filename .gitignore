@@ -1,1 +1,7 @@
 *.user
+*Debug
+*Release
+Pirate
+Publick
+Private
+*.csv

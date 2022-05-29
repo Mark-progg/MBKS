@@ -6,8 +6,6 @@
 #include <QDir>
 #include <QMessageBox>
 
-
-
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::MainWindow)
@@ -19,7 +17,6 @@ MainWindow::~MainWindow()
 {
     delete ui;
 }
-
 
 void MainWindow::on_pushButtonToPrivate_clicked()
 {

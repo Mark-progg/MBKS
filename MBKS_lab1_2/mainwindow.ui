@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>310</width>
-    <height>174</height>
+    <width>295</width>
+    <height>102</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -25,22 +25,6 @@
     </property>
     <property name="text">
      <string>Встать на проверку существоания файла</string>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="pushButton_copyData">
-    <property name="enabled">
-     <bool>true</bool>
-    </property>
-    <property name="geometry">
-     <rect>
-      <x>30</x>
-      <y>90</y>
-      <width>251</width>
-      <height>61</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>Скопировать данные</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_stopChech">
